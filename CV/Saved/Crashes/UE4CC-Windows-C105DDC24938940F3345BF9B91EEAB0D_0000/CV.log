@@ -1,0 +1,1205 @@
+﻿Log file open, 10/28/19 14:53:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CV
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.053379
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Git/CV/CV/Saved/Config/Windows/Engine.ini]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:1024]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Git/CV/CV/Saved/Config/Windows/Engine.ini]
+[2019.10.28-13.53.39:329][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Git/CV/CV/Saved/Config/Windows/Engine.ini]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Git/CV/CV/Saved/Config/Windows/Engine.ini]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.28-13.53.39:329][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Git/CV/CV/Saved/Config/Windows/Engine.ini]
+[2019.10.28-13.53.39:329][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Git/CV/CV/Saved/Config/Windows/Engine.ini]
+[2019.10.28-13.53.39:332][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.28-13.53.39:332][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.28-13.53.39:333][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.28-13.53.39:333][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.28-13.53.39:333][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.28-13.53.39:334][  0]LogHAL: Display: Platform has ~ 16 GB [17015394304 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.28-13.53.39:334][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.28-13.53.39:334][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.28-13.53.39:334][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.28-13.53.39:334][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.28-13.53.39:334][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.28-13.53.39:334][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.28-13.53.39:334][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.28-13.53.39:334][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.28-13.53.39:334][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.28-13.53.39:334][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.28-13.53.39:334][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2019.10.28-13.53.39:335][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Git/CV/CV/Saved/Config/Windows/Engine.ini]
+[2019.10.28-13.53.39:335][  0]LogInit: Computer: DESKTOP-CLF5VOH
+[2019.10.28-13.53.39:335][  0]LogInit: User: ponth
+[2019.10.28-13.53.39:335][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.10.28-13.53.39:335][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.28-13.53.39:335][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.10.28-13.53.39:335][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.28-13.53.39:335][  0]LogMemory: Process Physical Memory: 107.74 MB used, 107.74 MB peak
+[2019.10.28-13.53.39:336][  0]LogMemory: Process Virtual Memory: 104.91 MB used, 104.91 MB peak
+[2019.10.28-13.53.39:336][  0]LogMemory: Physical Memory: 5196.93 MB used,  11030.22 MB free, 16227.14 MB total
+[2019.10.28-13.53.39:336][  0]LogMemory: Virtual Memory: 4725.77 MB used,  134213000.00 MB free, 134217728.00 MB total
+[2019.10.28-13.53.39:337][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.28-13.53.39:355][  0]LogInit: Using OS detected language (fr-FR).
+[2019.10.28-13.53.39:355][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.10.28-13.53.39:355][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.10.28-13.53.39:355][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2019.10.28-13.53.39:355][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2019.10.28-13.53.39:356][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2019.10.28-13.53.39:356][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2019.10.28-13.53.39:356][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2019.10.28-13.53.39:356][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2019.10.28-13.53.39:356][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2019.10.28-13.53.39:356][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.28-13.53.39:377][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.28-13.53.39:377][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.28-13.53.39:476][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.28-13.53.39:517][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.10.28-13.53.39:517][  0]LogD3D11RHI:       8088/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.28-13.53.39:526][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.28-13.53.39:526][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.28-13.53.39:527][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.28-13.53.39:527][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.28-13.53.39:527][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.28-13.53.39:533][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.28-13.53.39:533][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.28-13.53.39:533][  0]LogWindows: EnumDisplayDevices:
+[2019.10.28-13.53.39:533][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2019.10.28-13.53.39:533][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.28-13.53.39:533][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.28-13.53.39:533][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.10.28-13.53.39:534][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.28-13.53.39:534][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.28-13.53.39:534][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.28-13.53.39:534][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.10.28-13.53.39:534][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.10.28-13.53.39:534][  0]LogD3D11RHI:   Driver Version: 440.97 (internal:26.21.14.4097, unified:440.97)
+[2019.10.28-13.53.39:534][  0]LogD3D11RHI:      Driver Date: 10-16-2019
+[2019.10.28-13.53.39:534][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.10.28-13.53.39:560][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.28-13.53.39:573][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.28-13.53.39:758][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.28-13.53.39:764][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.28-13.53.39:769][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.28-13.53.39:775][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.28-13.53.39:781][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.28-13.53.39:787][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.28-13.53.39:793][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.28-13.53.39:798][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.28-13.53.39:801][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.28-13.53.39:821][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.28-13.53.39:822][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.28-13.53.39:834][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.28-13.53.39:834][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.28-13.53.39:842][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.28-13.53.39:842][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.28-13.53.39:847][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.28-13.53.39:851][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.28-13.53.39:856][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.28-13.53.39:860][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.28-13.53.39:875][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.28-13.53.39:875][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.28-13.53.39:876][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.28-13.53.39:882][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.28-13.53.39:917][  0]LogShaderCompilers: Guid format shader working directory is 34 characters bigger than the processId version (D:/Git/CV/CV/Intermediate/Shaders/WorkingDirectory/6072/).
+[2019.10.28-13.53.39:917][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ponth/AppData/Local/Temp/UnrealShaderWorkingDir/22072AF7480FEEC7B62D3AAB2D6DA7F5/'.
+[2019.10.28-13.53.39:919][  0]LogXGEController: Cleaning working directory: C:/Users/ponth/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.28-13.53.39:919][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.28-13.53.39:919][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.28-13.53.39:919][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.28-13.53.40:344][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.28-13.53.40:379][  0]LogDerivedDataCache: Loaded boot cache 0.04s 79MB C:/Users/ponth/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.28-13.53.40:379][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ponth/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.28-13.53.40:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Git/CV/CV/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.28-13.53.40:379][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.28-13.53.40:379][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Git/CV/CV/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.28-13.53.40:379][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.28-13.53.40:387][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.28-13.53.40:387][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.28-13.53.40:387][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.28-13.53.40:388][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ponth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.28-13.53.40:388][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.28-13.53.40:388][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.28-13.53.40:402][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.28-13.53.40:404][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.28-13.53.40:404][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.28-13.53.40:442][  0]LogAssetRegistry: FAssetRegistry took 0.0016 seconds to start up
+[2019.10.28-13.53.40:613][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.28-13.53.40:718][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.28-13.53.40:718][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.28-13.53.40:718][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.28-13.53.40:718][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.28-13.53.40:718][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.28-13.53.40:724][  0]LogNetVersion: CV 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3136587888)
+[2019.10.28-13.53.41:003][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.029433 seconds
+[2019.10.28-13.53.41:007][  0]LogUObjectArray: 43222 objects as part of root set at end of initial load.
+[2019.10.28-13.53.41:007][  0]LogUObjectAllocator: 7513000 out of 0 bytes used by permanent object pool.
+[2019.10.28-13.53.41:007][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.28-13.53.41:582][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2019.10.28-13.53.41:584][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.28-13.53.41:586][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.28-13.53.41:618][  0]SourceControl: Source control is disabled
+[2019.10.28-13.53.41:831][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.28-13.53.41:831][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.28-13.53.41:879][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.28-13.53.42:033][  0]LogOcInput: OculusInput pre-init called
+[2019.10.28-13.53.42:479][  0]LogEngine: Initializing Engine...
+[2019.10.28-13.53.42:480][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.28-13.53.42:644][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.28-13.53.42:654][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.28-13.53.42:687][  0]LogInit: XAudio2 using 'PLG2488H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.28-13.53.42:752][  0]LogInit: FAudioDevice initialized.
+[2019.10.28-13.53.42:753][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.28-13.53.42:785][  0]LogDerivedDataCache: Saved boot cache 0.03s 79MB C:/Users/ponth/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.28-13.53.42:790][  0]LogInit: Texture streaming: Enabled
+[2019.10.28-13.53.42:803][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.28-13.53.42:803][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={D5B9EBBE-45E1-4A71-9564-3D9CBF43033A}
+[2019.10.28-13.53.42:853][  0]LogInit: Transaction tracking system initialized
+[2019.10.28-13.53.42:875][  0]BlueprintLog: New page: Editor Load
+[2019.10.28-13.53.42:927][  0]LocalizationService: Localization service is disabled
+[2019.10.28-13.53.42:971][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.28-13.53.42:971][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.28-13.53.43:086][  0]LogFileCache: Scanning file cache for directory 'D:/Git/CV/CV/Content/' took 0.00s
+[2019.10.28-13.53.43:087][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.28-13.53.43:087][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.28-13.53.43:199][  0]Cmd: MAP LOAD FILE="D:/Git/CV/CV/Content/Maps/n_world.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.28-13.53.43:199][  0]LightingResults: New page: Lighting Build
+[2019.10.28-13.53.43:201][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.28-13.53.43:201][  0]MapCheck: New page: Map Check
+[2019.10.28-13.53.43:201][  0]LightingResults: New page: Lighting Build
+[2019.10.28-13.53.43:224][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.10.28-13.53.43:804][  0]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/ns_redlinebeam' Precompile took 0.095543 sec.
+[2019.10.28-13.53.43:804][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-13.53.43:804][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-13.53.43:804][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.SpawnScript_5' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.UpdateScript_6' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.SpawnScript' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.UpdateScript' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.SpawnScript' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.UpdateScript' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript' is in-sync skipping compile..
+[2019.10.28-13.53.43:805][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript' is in-sync skipping compile..
+[2019.10.28-13.53.43:912][  0]LogAIModule: Creating AISystem for world n_world
+[2019.10.28-13.53.43:984][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.28-13.53.44:011][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.10.28-13.53.44:011][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.28-13.53.44:011][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,062ms to complete.
+[2019.10.28-13.53.44:011][  0]LogFileHelpers: Loading map 'n_world' took 0.811
+[2019.10.28-13.53.44:104][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.28-13.53.44:109][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.28-13.53.44:114][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.28-13.53.44:118][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.28-13.53.44:123][  0]LogCollectionManager: Loaded 0 collections in 0.001535 seconds
+[2019.10.28-13.53.44:128][  0]LogFileCache: Scanning file cache for directory 'D:/Git/CV/CV/Saved/Collections/' took 0.00s
+[2019.10.28-13.53.44:128][  0]LogFileCache: Scanning file cache for directory 'D:/Git/CV/CV/Content/Developers/ponth/Collections/' took 0.00s
+[2019.10.28-13.53.44:128][  0]LogFileCache: Scanning file cache for directory 'D:/Git/CV/CV/Content/Collections/' took 0.00s
+[2019.10.28-13.53.44:128][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.28-13.53.44:134][  0]LogContentBrowser: Native class hierarchy populated in 0.0057 seconds. Added 3010 classes and 699 folders.
+[2019.10.28-13.53.44:139][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.28-13.53.44:164][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.28-13.53.44:168][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.28-13.53.44:220][  0]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.28-13.53.44:220][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.28-13.53.44:223][  0]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.28-13.53.44:264][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.10.28-13.53.44:282][  0]LogRenderer: Reallocating scene render targets to support 1068x480 Format 10 NumSamples 1 (Frame:1).
+[2019.10.28-13.53.44:330][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.28-13.53.44:330][  0]LogLoad: (Engine Initialization) Total time: 6.21 seconds
+[2019.10.28-13.53.44:330][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.28-13.53.44:363][  0]LogAssetRegistry: Asset discovery search completed in 3.9218 seconds
+[2019.10.28-13.53.44:365][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2019.10.28-13.53.44:365][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000029 seconds (updated 0 objects)
+[2019.10.28-13.53.44:367][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.28-13.53.44:391][  0]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.28-13.53.44:399][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2019.10.28-13.53.45:351][103]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.28-13.53.47:418][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-13.53.47:512][360]LogAssetEditorManager: Opening Asset editor for NiagaraSystem /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam
+[2019.10.28-13.53.47:740][360]LogAssetEditorManager: Opening Asset editor for Material /Game/FX/Niagara/mat_beam.mat_beam
+[2019.10.28-13.53.47:742][360]LogMaterial: Display: Missing cached shader map for material mat_beam, compiling. 
+[2019.10.28-13.53.47:817][360]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.28-13.53.47:826][360]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.10.28-13.53.47:832][360]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.10.28-13.53.47:837][360]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2019.10.28-13.53.47:837][360]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2019.10.28-13.53.47:837][360]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2019.10.28-13.53.47:837][360]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2019.10.28-13.53.47:837][360]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2019.10.28-13.53.47:837][360]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2019.10.28-13.53.47:837][360]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2019.10.28-13.53.47:837][360]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2019.10.28-13.53.47:839][360]LogMaterial: Display: Missing cached shader map for material mat_beam, compiling. 
+[2019.10.28-13.53.47:852][360]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.28-13.53.47:858][360]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.10.28-13.53.47:866][360]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.10.28-13.53.47:913][360]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 29
+[2019.10.28-13.53.47:913][360]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 28
+[2019.10.28-13.53.47:913][360]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 27
+[2019.10.28-13.53.47:913][360]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 26
+[2019.10.28-13.53.47:918][360]LogAssetEditorManager: Opening Asset editor for CurveVector /Game/FX/Niagara/Beamscale.Beamscale
+[2019.10.28-13.53.47:999][360]59891_ns_redlinebeam_MessageLog: System successfully compiled.
+[2019.10.28-13.53.48:003][360]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.28-13.53.48:116][360]LogStaticMesh: Allocated 492x102x64 distance field atlas = 6.1Mb, with 37 objects containing 3.0Mb backing data
+[2019.10.28-13.53.48:171][362]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 25
+[2019.10.28-13.53.48:194][363]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 24
+[2019.10.28-13.53.48:201][363]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.28-13.53.48:325][371]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2019.10.28-13.53.48:338][372]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 22
+[2019.10.28-13.53.48:338][372]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2019.10.28-13.53.48:363][374]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 20
+[2019.10.28-13.53.48:363][374]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2019.10.28-13.53.48:375][375]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 18
+[2019.10.28-13.53.48:407][378]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 17
+[2019.10.28-13.53.48:417][379]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 16
+[2019.10.28-13.53.48:417][379]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2019.10.28-13.53.48:417][379]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 14
+[2019.10.28-13.53.48:441][381]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2019.10.28-13.53.48:456][382]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2019.10.28-13.53.48:510][386]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2019.10.28-13.53.48:541][388]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2019.10.28-13.53.48:558][389]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.10.28-13.53.48:629][394]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2019.10.28-13.53.48:662][396]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2019.10.28-13.53.48:662][396]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2019.10.28-13.53.48:771][402]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2019.10.28-13.53.48:807][404]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2019.10.28-13.53.48:885][409]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2019.10.28-13.53.48:912][411]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2019.10.28-13.53.48:927][412]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2019.10.28-13.53.49:160][430]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2019.10.28-13.53.49:160][430]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2019.10.28-13.53.49:160][430]MaterialEditorStats: Texture samplers: 2/16
+[2019.10.28-13.53.49:160][430]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.10.28-13.53.49:160][430]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.28-13.53.49:494][469]LogRenderer: Reallocating scene render targets to support 1068x672 Format 10 NumSamples 1 (Frame:1).
+[2019.10.28-13.54.13:656][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-13.54.28:764][125]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/ns_redlinebeam' Precompile took 0.122040 sec.
+[2019.10.28-13.54.28:764][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-13.54.28:764][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-13.54.28:764][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-13.54.28:764][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-13.54.28:764][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-13.54.28:764][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-13.54.28:764][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-13.54.28:764][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-13.54.28:764][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.SpawnScript_5' is in-sync skipping compile..
+[2019.10.28-13.54.28:764][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.UpdateScript_6' is in-sync skipping compile..
+[2019.10.28-13.54.28:764][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.28-13.54.28:764][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.28-13.54.28:765][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.SpawnScript' is in-sync skipping compile..
+[2019.10.28-13.54.28:765][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.UpdateScript' is in-sync skipping compile..
+[2019.10.28-13.54.28:765][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-13.54.28:765][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-13.54.28:765][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.SpawnScript' is in-sync skipping compile..
+[2019.10.28-13.54.28:765][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.UpdateScript' is in-sync skipping compile..
+[2019.10.28-13.54.28:765][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-13.54.28:765][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-13.54.28:765][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-13.54.28:765][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-13.54.28:765][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-13.54.28:765][125]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-13.54.28:775][126]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript ...................................................................
+[2019.10.28-13.54.28:775][126]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript ...................................................................
+[2019.10.28-13.54.28:806][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content/Sequencer/Editor' is outside repository
+[2019.10.28-13.54.28:830][132]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript took 0.063994 sec (0.006477/0.057409)... Status NCS_UpToDate
+[2019.10.28-13.54.28:830][132]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript' was built locally..
+[2019.10.28-13.54.29:222][179]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript took 0.452021 sec (0.033086/0.388205)... Status NCS_UpToDate
+[2019.10.28-13.54.29:222][179]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript' was built locally..
+[2019.10.28-13.54.29:265][180]59891_ns_redlinebeam_MessageLog: System successfully compiled.
+[2019.10.28-13.57.25:765][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-13.58.42:111][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-13.58.57:609][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-13.59.07:643][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/ns_redlinebeam" FILE="D:/Git/CV/CV/Content/FX/Niagara/ns_redlinebeam.uasset" SILENT=true
+[2019.10.28-13.59.08:166][321]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/ns_redlinebeam7B6E6CFA4E3DCDFED5DAA4A44AFC8E3F.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/ns_redlinebeam.uasset'
+[2019.10.28-13.59.09:455][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.10.28-13.59.16:766][315]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/ns_redlinebeam' Precompile took 0.149095 sec.
+[2019.10.28-13.59.16:766][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-13.59.16:766][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-13.59.16:766][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-13.59.16:766][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-13.59.16:766][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-13.59.16:766][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.SpawnScript_5' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.UpdateScript_6' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.SpawnScript' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.UpdateScript' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.SpawnScript' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.UpdateScript' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-13.59.16:767][315]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-13.59.16:789][316]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript ...................................................................
+[2019.10.28-13.59.16:789][316]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript ...................................................................
+[2019.10.28-13.59.16:827][320]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript took 0.055852 sec (0.007134/0.048666)... Status NCS_UpToDate
+[2019.10.28-13.59.16:827][320]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript' was built locally..
+[2019.10.28-13.59.16:835][321]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content/Sequencer/Editor' is outside repository
+[2019.10.28-13.59.17:283][375]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript took 0.509648 sec (0.028948/0.454039)... Status NCS_UpToDate
+[2019.10.28-13.59.17:287][375]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript' was built locally..
+[2019.10.28-13.59.17:334][376]59891_ns_redlinebeam_MessageLog: System successfully compiled.
+[2019.10.28-14.02.50:404][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.02.53:558][216]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/ns_redlinebeam' Precompile took 0.147406 sec.
+[2019.10.28-14.02.53:558][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.02.53:558][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.02.53:558][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.02.53:558][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.02.53:558][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.02.53:558][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.02.53:558][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.02.53:558][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.02.53:558][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.SpawnScript_5' is in-sync skipping compile..
+[2019.10.28-14.02.53:558][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.UpdateScript_6' is in-sync skipping compile..
+[2019.10.28-14.02.53:558][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.28-14.02.53:558][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.SpawnScript' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.UpdateScript' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.SpawnScript' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.UpdateScript' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.SpawnScript_0 ...................................................................
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.02.53:559][216]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.UpdateScript_1 ...................................................................
+[2019.10.28-14.02.53:559][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript' is in-sync skipping compile..
+[2019.10.28-14.02.53:560][216]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript' is in-sync skipping compile..
+[2019.10.28-14.02.53:749][238]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.SpawnScript_0 took 0.185609 sec (0.011178/0.174311)... Status NCS_UpToDate
+[2019.10.28-14.02.53:751][238]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.SpawnScript_0' was built locally..
+[2019.10.28-14.02.53:797][244]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.UpdateScript_1 took 0.233493 sec (0.014159/0.047972)... Status NCS_UpToDate
+[2019.10.28-14.02.53:801][244]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.UpdateScript_1' was built locally..
+[2019.10.28-14.02.53:847][245]59891_ns_redlinebeam_MessageLog: System successfully compiled.
+[2019.10.28-14.05.48:599][ 83]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/ns_redlinebeam' Precompile took 0.146742 sec.
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.SpawnScript_5' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.UpdateScript_6' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.SpawnScript' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.UpdateScript' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.SpawnScript' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.UpdateScript' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.05.48:600][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.05.48:601][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.05.48:601][ 83]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.SpawnScript_0 ...................................................................
+[2019.10.28-14.05.48:601][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.05.48:601][ 83]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.UpdateScript_1 ...................................................................
+[2019.10.28-14.05.48:601][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript' is in-sync skipping compile..
+[2019.10.28-14.05.48:601][ 83]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript' is in-sync skipping compile..
+[2019.10.28-14.05.48:787][105]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.SpawnScript_0 took 0.186577 sec (0.011510/0.174938)... Status NCS_UpToDate
+[2019.10.28-14.05.48:790][105]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.SpawnScript_0' was built locally..
+[2019.10.28-14.05.48:837][111]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.UpdateScript_1 took 0.234579 sec (0.014871/0.048098)... Status NCS_UpToDate
+[2019.10.28-14.05.48:840][111]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.UpdateScript_1' was built locally..
+[2019.10.28-14.05.48:889][112]59891_ns_redlinebeam_MessageLog: System successfully compiled.
+[2019.10.28-14.07.09:008][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.07.25:665][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.07.25:802][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/ns_redlinebeam" FILE="D:/Git/CV/CV/Content/FX/Niagara/ns_redlinebeam.uasset" SILENT=true
+[2019.10.28-14.07.26:405][696]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/ns_redlinebeamA992AFDA4519CE970C5C1B9CD63A8BCF.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/ns_redlinebeam.uasset'
+[2019.10.28-14.07.27:536][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.10.28-14.07.29:194][  6]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/ns_redlinebeam' Precompile took 0.123361 sec.
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.SpawnScript_5' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.UpdateScript_6' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.SpawnScript' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.UpdateScript' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.SpawnScript' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.UpdateScript' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.07.29:195][  6]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.07.29:206][  7]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript ...................................................................
+[2019.10.28-14.07.29:206][  7]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript ...................................................................
+[2019.10.28-14.07.29:252][ 13]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript took 0.052474 sec (0.006112/0.046317)... Status NCS_UpToDate
+[2019.10.28-14.07.29:256][ 13]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript' was built locally..
+[2019.10.28-14.07.29:585][ 53]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript took 0.386510 sec (0.032372/0.334209)... Status NCS_UpToDate
+[2019.10.28-14.07.29:590][ 53]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript' was built locally..
+[2019.10.28-14.07.29:633][ 54]59891_ns_redlinebeam_MessageLog: System successfully compiled.
+[2019.10.28-14.08.05:596][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.08.38:083][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.08.49:466][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.09.14:012][ 17]LogEditorTransaction: Undo Move Keys
+[2019.10.28-14.09.14:039][ 17]LogMaterial: Display: Missing cached shader map for material mat_beam, compiling. 
+[2019.10.28-14.09.14:052][ 17]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2019.10.28-14.09.14:052][ 17]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2019.10.28-14.09.14:052][ 17]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2019.10.28-14.09.14:052][ 17]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2019.10.28-14.09.14:052][ 17]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2019.10.28-14.09.14:052][ 17]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2019.10.28-14.09.14:052][ 17]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2019.10.28-14.09.14:052][ 17]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2019.10.28-14.09.14:052][ 17]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2019.10.28-14.09.14:052][ 17]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2019.10.28-14.09.14:052][ 17]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2019.10.28-14.09.14:052][ 17]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2019.10.28-14.09.14:055][ 17]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.28-14.09.14:061][ 17]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.10.28-14.09.14:067][ 17]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.10.28-14.09.14:381][ 34]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2019.10.28-14.09.14:384][ 35]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2019.10.28-14.09.14:406][ 35]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2019.10.28-14.09.14:426][ 36]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2019.10.28-14.09.14:447][ 37]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.10.28-14.09.14:449][ 38]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2019.10.28-14.09.14:522][ 42]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2019.10.28-14.09.14:539][ 43]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2019.10.28-14.09.14:539][ 43]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2019.10.28-14.09.14:556][ 44]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2019.10.28-14.09.14:591][ 46]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2019.10.28-14.09.14:639][ 49]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2019.10.28-14.09.14:794][ 57]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2019.10.28-14.09.14:814][ 58]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2019.10.28-14.09.14:907][ 63]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2019.10.28-14.09.14:953][ 66]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2019.10.28-14.09.14:990][ 68]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2019.10.28-14.09.15:202][ 83]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2019.10.28-14.09.15:202][ 83]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2019.10.28-14.09.15:202][ 83]MaterialEditorStats: Texture samplers: 2/16
+[2019.10.28-14.09.15:202][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.10.28-14.09.15:202][ 83]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.28-14.09.24:997][255]LogEditorTransaction: Undo Move Keys
+[2019.10.28-14.09.25:021][255]LogMaterial: Display: Missing cached shader map for material mat_beam, compiling. 
+[2019.10.28-14.09.25:035][255]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.28-14.09.25:042][255]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2019.10.28-14.09.25:042][255]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2019.10.28-14.09.25:042][255]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2019.10.28-14.09.25:042][255]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2019.10.28-14.09.25:042][255]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2019.10.28-14.09.25:042][255]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2019.10.28-14.09.25:042][255]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2019.10.28-14.09.25:042][255]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2019.10.28-14.09.25:042][255]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2019.10.28-14.09.25:042][255]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2019.10.28-14.09.25:042][255]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2019.10.28-14.09.25:042][255]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2019.10.28-14.09.25:042][255]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.10.28-14.09.25:048][255]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.10.28-14.09.25:163][261]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2019.10.28-14.09.25:250][264]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 16
+[2019.10.28-14.09.25:267][265]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2019.10.28-14.09.25:267][265]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2019.10.28-14.09.25:288][266]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2019.10.28-14.09.25:288][266]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2019.10.28-14.09.25:364][270]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2019.10.28-14.09.25:385][271]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2019.10.28-14.09.25:406][272]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 9
+[2019.10.28-14.09.25:406][272]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2019.10.28-14.09.25:429][273]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2019.10.28-14.09.25:430][273]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2019.10.28-14.09.25:632][284]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2019.10.28-14.09.25:632][284]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2019.10.28-14.09.25:667][286]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2019.10.28-14.09.25:763][292]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2019.10.28-14.09.25:783][293]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2019.10.28-14.09.26:002][311]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2019.10.28-14.09.26:002][311]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2019.10.28-14.09.26:002][311]MaterialEditorStats: Texture samplers: 2/16
+[2019.10.28-14.09.26:002][311]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.10.28-14.09.26:002][311]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.28-14.09.36:773][600]Cmd: TRANSACTION UNDO
+[2019.10.28-14.09.36:773][600]LogEditorTransaction: Undo Move Keys
+[2019.10.28-14.09.36:796][600]LogMaterial: Display: Missing cached shader map for material mat_beam, compiling. 
+[2019.10.28-14.09.36:810][600]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.28-14.09.36:816][600]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2019.10.28-14.09.36:816][600]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2019.10.28-14.09.36:816][600]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2019.10.28-14.09.36:816][600]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2019.10.28-14.09.36:816][600]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2019.10.28-14.09.36:816][600]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2019.10.28-14.09.36:816][600]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2019.10.28-14.09.36:816][600]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2019.10.28-14.09.36:816][600]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2019.10.28-14.09.36:816][600]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2019.10.28-14.09.36:816][600]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2019.10.28-14.09.36:816][600]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2019.10.28-14.09.36:816][600]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.10.28-14.09.36:822][600]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.10.28-14.09.36:941][606]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2019.10.28-14.09.36:987][607]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 16
+[2019.10.28-14.09.37:011][608]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2019.10.28-14.09.37:031][609]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2019.10.28-14.09.37:051][610]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2019.10.28-14.09.37:072][611]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2019.10.28-14.09.37:151][615]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2019.10.28-14.09.37:151][615]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2019.10.28-14.09.37:171][616]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2019.10.28-14.09.37:171][616]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2019.10.28-14.09.37:191][617]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2019.10.28-14.09.37:211][618]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2019.10.28-14.09.37:366][627]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2019.10.28-14.09.37:366][627]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2019.10.28-14.09.37:404][629]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2019.10.28-14.09.37:500][635]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2019.10.28-14.09.37:556][638]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2019.10.28-14.09.37:760][654]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2019.10.28-14.09.37:760][654]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2019.10.28-14.09.37:760][654]MaterialEditorStats: Texture samplers: 2/16
+[2019.10.28-14.09.37:760][654]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.10.28-14.09.37:760][654]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.28-14.09.40:467][979]LogEditorTransaction: Undo Move Keys
+[2019.10.28-14.09.40:491][979]LogMaterial: Display: Missing cached shader map for material mat_beam, compiling. 
+[2019.10.28-14.09.40:507][979]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2019.10.28-14.09.40:507][979]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2019.10.28-14.09.40:507][979]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2019.10.28-14.09.40:507][979]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2019.10.28-14.09.40:507][979]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2019.10.28-14.09.40:507][979]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2019.10.28-14.09.40:507][979]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2019.10.28-14.09.40:507][979]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2019.10.28-14.09.40:507][979]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2019.10.28-14.09.40:507][979]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2019.10.28-14.09.40:507][979]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2019.10.28-14.09.40:507][979]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2019.10.28-14.09.40:507][979]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.28-14.09.40:513][979]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.10.28-14.09.40:519][979]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.10.28-14.09.40:648][985]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2019.10.28-14.09.40:695][986]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 16
+[2019.10.28-14.09.40:735][988]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2019.10.28-14.09.40:735][988]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2019.10.28-14.09.40:754][989]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.10.28-14.09.40:774][990]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2019.10.28-14.09.40:837][993]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2019.10.28-14.09.40:839][994]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.10.28-14.09.40:859][994]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.10.28-14.09.40:880][995]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2019.10.28-14.09.40:900][996]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2019.10.28-14.09.40:920][997]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2019.10.28-14.09.41:081][  6]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2019.10.28-14.09.41:118][  8]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2019.10.28-14.09.41:118][  8]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2019.10.28-14.09.41:232][ 15]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2019.10.28-14.09.41:251][ 16]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2019.10.28-14.09.42:667][178]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2019.10.28-14.09.42:667][178]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2019.10.28-14.09.42:667][178]MaterialEditorStats: Texture samplers: 2/16
+[2019.10.28-14.09.42:667][178]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.10.28-14.09.42:667][178]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.28-14.09.50:027][ 59]LogEditorTransaction: Undo Move Keys
+[2019.10.28-14.09.50:051][ 59]LogMaterial: Display: Missing cached shader map for material mat_beam, compiling. 
+[2019.10.28-14.09.50:061][ 59]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2019.10.28-14.09.50:061][ 59]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2019.10.28-14.09.50:061][ 59]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2019.10.28-14.09.50:061][ 59]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2019.10.28-14.09.50:061][ 59]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2019.10.28-14.09.50:061][ 59]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2019.10.28-14.09.50:061][ 59]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2019.10.28-14.09.50:061][ 59]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2019.10.28-14.09.50:061][ 59]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2019.10.28-14.09.50:061][ 59]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2019.10.28-14.09.50:061][ 59]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2019.10.28-14.09.50:061][ 59]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2019.10.28-14.09.50:065][ 59]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.28-14.09.50:071][ 59]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.10.28-14.09.50:077][ 59]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.10.28-14.09.50:173][ 63]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2019.10.28-14.09.50:279][ 67]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 16
+[2019.10.28-14.09.50:279][ 67]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2019.10.28-14.09.50:279][ 67]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2019.10.28-14.09.50:298][ 68]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2019.10.28-14.09.50:316][ 69]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2019.10.28-14.09.50:366][ 72]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2019.10.28-14.09.50:387][ 73]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2019.10.28-14.09.50:405][ 74]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.10.28-14.09.50:405][ 74]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2019.10.28-14.09.50:427][ 76]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2019.10.28-14.09.50:445][ 76]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2019.10.28-14.09.50:620][ 86]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2019.10.28-14.09.50:640][ 87]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2019.10.28-14.09.50:673][ 89]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2019.10.28-14.09.50:752][ 94]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2019.10.28-14.09.50:787][ 96]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2019.10.28-14.09.51:015][114]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2019.10.28-14.09.51:016][114]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2019.10.28-14.09.51:016][114]MaterialEditorStats: Texture samplers: 2/16
+[2019.10.28-14.09.51:016][114]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.10.28-14.09.51:016][114]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.28-14.10.04:700][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/Beamscale" FILE="D:/Git/CV/CV/Content/FX/Niagara/Beamscale.uasset" SILENT=true
+[2019.10.28-14.10.04:706][748]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/Beamscale153CBE0F4BDC23355367C3BCFF5D3619.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/Beamscale.uasset'
+[2019.10.28-14.10.28:975][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.10.41:709][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.10.54:952][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.11.02:149][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/ns_redlinebeam" FILE="D:/Git/CV/CV/Content/FX/Niagara/ns_redlinebeam.uasset" SILENT=true
+[2019.10.28-14.11.02:668][621]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/ns_redlinebeamF45009B64A0A94E7776AF7BB7EF9D6E3.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/ns_redlinebeam.uasset'
+[2019.10.28-14.11.04:468][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.10.28-14.11.12:611][772]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/ns_redlinebeam' Precompile took 0.151534 sec.
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.SpawnScript_5' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.UpdateScript_6' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.SpawnScript' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.UpdateScript' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-14.11.12:611][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-14.11.12:612][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.SpawnScript' is in-sync skipping compile..
+[2019.10.28-14.11.12:612][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.UpdateScript' is in-sync skipping compile..
+[2019.10.28-14.11.12:612][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-14.11.12:612][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-14.11.12:612][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.11.12:612][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.11.12:612][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.11.12:612][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.11.12:612][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_5.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.11.12:612][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_5.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.11.12:612][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_5.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.11.12:612][772]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_5.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.11.12:622][773]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript ...................................................................
+[2019.10.28-14.11.12:622][773]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript ...................................................................
+[2019.10.28-14.11.12:674][779]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript took 0.059966 sec (0.006969/0.052907)... Status NCS_UpToDate
+[2019.10.28-14.11.12:674][779]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript' was built locally..
+[2019.10.28-14.11.12:683][780]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content/Sequencer/Editor' is outside repository
+[2019.10.28-14.11.13:128][834]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript took 0.510976 sec (0.036445/0.451295)... Status NCS_UpToDate
+[2019.10.28-14.11.13:132][834]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript' was built locally..
+[2019.10.28-14.11.13:180][835]59891_ns_redlinebeam_MessageLog: System successfully compiled.
+[2019.10.28-14.11.56:558][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.12.15:461][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.12.21:195][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.12.27:338][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.13.18:992][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.15.02:057][212]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/ns_redlinebeam' Precompile took 0.152127 sec.
+[2019.10.28-14.15.02:057][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.SpawnScript_5' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.UpdateScript_6' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_beamamorce.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.SpawnScript' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.UpdateScript' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle001.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.SpawnScript' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.UpdateScript' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterSpawnScript' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_circle002_1.EmitterUpdateScript' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.SpawnScript_0' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.UpdateScript_1' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.15.02:058][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave002_3.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.15.02:059][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_5.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.28-14.15.02:059][212]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_5.SpawnScript_0 ...................................................................
+[2019.10.28-14.15.02:059][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_5.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.28-14.15.02:059][212]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_5.UpdateScript_1 ...................................................................
+[2019.10.28-14.15.02:059][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemSpawnScript' is in-sync skipping compile..
+[2019.10.28-14.15.02:059][212]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:SystemUpdateScript' is in-sync skipping compile..
+[2019.10.28-14.15.02:263][236]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_5.SpawnScript_0 took 0.200030 sec (0.011434/0.188475)... Status NCS_UpToDate
+[2019.10.28-14.15.02:266][236]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_5.SpawnScript_0' was built locally..
+[2019.10.28-14.15.02:313][242]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_5.UpdateScript_1 took 0.249126 sec (0.014633/0.049190)... Status NCS_UpToDate
+[2019.10.28-14.15.02:316][242]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/ns_redlinebeam.ns_redlinebeam:ne_trailwave001_5.UpdateScript_1' was built locally..
+[2019.10.28-14.15.02:364][243]59891_ns_redlinebeam_MessageLog: System successfully compiled.
+[2019.10.28-14.17.13:974][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.17.38:031][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.18.21:016][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.19.59:189][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.20.17:409][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.20.45:103][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.10.28-14.20.45:160][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/ns_redlinebeam" FILE="D:/Git/CV/CV/Content/FX/Niagara/ns_redlinebeam.uasset" SILENT=true
+[2019.10.28-14.20.45:770][233]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/ns_redlinebeam248618F744E4F9011029B082657B6DB4.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/ns_redlinebeam.uasset'
+[2019.10.28-14.21.03:647][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.21.55:758][612]LogEditorTransaction: Undo Move Keys
+[2019.10.28-14.21.55:784][612]LogMaterial: Display: Missing cached shader map for material mat_beam, compiling. 
+[2019.10.28-14.21.55:797][612]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2019.10.28-14.21.55:797][612]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2019.10.28-14.21.55:797][612]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2019.10.28-14.21.55:797][612]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2019.10.28-14.21.55:797][612]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2019.10.28-14.21.55:797][612]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2019.10.28-14.21.55:797][612]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2019.10.28-14.21.55:797][612]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2019.10.28-14.21.55:797][612]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2019.10.28-14.21.55:797][612]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2019.10.28-14.21.55:797][612]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2019.10.28-14.21.55:797][612]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2019.10.28-14.21.55:801][612]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2019.10.28-14.21.55:807][612]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2019.10.28-14.21.55:813][612]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2019.10.28-14.21.56:106][628]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2019.10.28-14.21.56:106][628]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 16
+[2019.10.28-14.21.56:146][630]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2019.10.28-14.21.56:146][630]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2019.10.28-14.21.56:146][630]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2019.10.28-14.21.56:184][632]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2019.10.28-14.21.56:217][634]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2019.10.28-14.21.56:256][636]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2019.10.28-14.21.56:256][636]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2019.10.28-14.21.56:273][638]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2019.10.28-14.21.56:290][639]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2019.10.28-14.21.56:338][642]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2019.10.28-14.21.56:500][650]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2019.10.28-14.21.56:520][651]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2019.10.28-14.21.56:597][654]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2019.10.28-14.21.56:656][658]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2019.10.28-14.21.56:678][659]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2019.10.28-14.21.56:908][674]MaterialEditorStats: Base pass shader without light map: 38 instructions
+[2019.10.28-14.21.56:908][674]MaterialEditorStats: Base pass vertex shader: 88 instructions
+[2019.10.28-14.21.56:908][674]MaterialEditorStats: Texture samplers: 2/16
+[2019.10.28-14.21.56:908][674]MaterialEditorStats: Texture Lookups (Est.): VS(2), PS(1)
+[2019.10.28-14.21.56:908][674]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.10.28-14.22.04:906][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/Beamscale" FILE="D:/Git/CV/CV/Content/FX/Niagara/Beamscale.uasset" SILENT=true
+[2019.10.28-14.22.04:911][626]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/Beamscale7BB6CA014E0D3865313266BB9D7ACE4A.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/Beamscale.uasset'
+[2019.10.28-14.22.08:663][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/ns_redlinebeam" FILE="D:/Git/CV/CV/Content/FX/Niagara/ns_redlinebeam.uasset" SILENT=true
+[2019.10.28-14.22.09:273][ 65]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/ns_redlinebeam58E9E8BA42A70137BE42EDB2CC94D4A2.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/ns_redlinebeam.uasset'
+[2019.10.28-14.22.23:723][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.22.30:050][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.22.30:217][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/ns_redlinebeam" FILE="D:/Git/CV/CV/Content/FX/Niagara/ns_redlinebeam.uasset" SILENT=true
+[2019.10.28-14.22.30:816][570]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/ns_redlinebeamA226D84146819DAAC7B618AE941E16E3.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/ns_redlinebeam.uasset'
+[2019.10.28-14.22.36:539][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/Beamscale" FILE="D:/Git/CV/CV/Content/FX/Niagara/Beamscale.uasset" SILENT=true
+[2019.10.28-14.22.36:544][248]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/Beamscale976E4AA54E10589CD747299B00FAC84D.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/Beamscale.uasset'
+[2019.10.28-14.22.51:875][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.22.55:166][348]LogEditorViewport: Clicking on Actor (LMB): Sky_C (Sky)
+[2019.10.28-14.22.56:737][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-14.23.01:765][ 84]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2019.10.28-14.23.01:930][ 85]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.172 s
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: === Handled ensure: ===
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: 
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Math/Matrix.cpp] [Line: 8]
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: Stack: 
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffac8f0fce6 UE4Editor-Core.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffac8b01b48 UE4Editor-Core.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffaa7a23903 UE4Editor-Niagara.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffaa7b35e53 UE4Editor-Niagara.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffaa7b0a0cf UE4Editor-Niagara.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffaa79f6baf UE4Editor-Niagara.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffac1f858e6 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffac1f770fe UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffac1f8b0e9 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffac1a9921d UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffac1f36927 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffac1ec4360 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffac1ef3931 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffac89b4e4a UE4Editor-Core.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffac89b51f3 UE4Editor-Core.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffad83f0021 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffad83f85b4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffac8e09a8f UE4Editor-Core.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffac8dfffe1 UE4Editor-Core.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffb0d437bd4 KERNEL32.DLL!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: [Callstack] 0x00007ffb0db2ced1 ntdll.dll!UnknownFunction []
+[2019.10.28-14.23.01:930][ 85]LogOutputDevice: Error: 
+[2019.10.28-14.23.01:930][ 85]LogStats:                SubmitErrorReport -  0.000 s

@@ -1,0 +1,1228 @@
+﻿Log file open, 10/29/19 20:55:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CV
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.054418
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.37.0
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Git/CV/CV/Saved/Config/Windows/Engine.ini]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:1024]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Git/CV/CV/Saved/Config/Windows/Engine.ini]
+[2019.10.29-19.55.49:746][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Git/CV/CV/Saved/Config/Windows/Engine.ini]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Git/CV/CV/Saved/Config/Windows/Engine.ini]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.29-19.55.49:746][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Git/CV/CV/Saved/Config/Windows/Engine.ini]
+[2019.10.29-19.55.49:746][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Git/CV/CV/Saved/Config/Windows/Engine.ini]
+[2019.10.29-19.55.49:749][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.29-19.55.49:749][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.29-19.55.49:750][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.29-19.55.49:750][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.29-19.55.49:750][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.29-19.55.49:750][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.29-19.55.49:750][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.29-19.55.49:750][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.29-19.55.49:750][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.29-19.55.49:750][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-19.55.49:750][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.29-19.55.49:750][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.29-19.55.49:750][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.29-19.55.49:750][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.29-19.55.49:751][  0]LogHAL: Display: Platform has ~ 16 GB [17015394304 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.29-19.55.49:751][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.29-19.55.49:751][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.29-19.55.49:751][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Git/CV/CV/Saved/Config/Windows/Scalability.ini]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2019.10.29-19.55.49:752][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Git/CV/CV/Saved/Config/Windows/Engine.ini]
+[2019.10.29-19.55.49:752][  0]LogInit: Computer: DESKTOP-CLF5VOH
+[2019.10.29-19.55.49:752][  0]LogInit: User: ponth
+[2019.10.29-19.55.49:752][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.10.29-19.55.49:752][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.29-19.55.49:752][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.10.29-19.55.49:752][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.29-19.55.49:752][  0]LogMemory: Process Physical Memory: 106.28 MB used, 106.28 MB peak
+[2019.10.29-19.55.49:752][  0]LogMemory: Process Virtual Memory: 95.96 MB used, 95.96 MB peak
+[2019.10.29-19.55.49:752][  0]LogMemory: Physical Memory: 7058.96 MB used,  9168.19 MB free, 16227.14 MB total
+[2019.10.29-19.55.49:752][  0]LogMemory: Virtual Memory: 4716.83 MB used,  134213008.00 MB free, 134217728.00 MB total
+[2019.10.29-19.55.49:754][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.29-19.55.49:773][  0]LogInit: Using OS detected language (fr-FR).
+[2019.10.29-19.55.49:773][  0]LogInit: Using OS detected locale (fr-FR).
+[2019.10.29-19.55.49:774][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2019.10.29-19.55.49:774][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2019.10.29-19.55.49:774][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2019.10.29-19.55.49:774][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2019.10.29-19.55.49:774][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2019.10.29-19.55.49:774][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2019.10.29-19.55.49:774][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2019.10.29-19.55.49:774][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2019.10.29-19.55.49:775][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.29-19.55.49:805][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.29-19.55.49:805][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.29-19.55.49:910][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.29-19.55.49:967][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.10.29-19.55.49:967][  0]LogD3D11RHI:       8088/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.29-19.55.49:976][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.29-19.55.49:976][  0]LogD3D11RHI:       128/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.29-19.55.49:977][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.29-19.55.49:977][  0]LogD3D11RHI:       0/0/8113 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.29-19.55.49:977][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.29-19.55.49:989][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.29-19.55.49:989][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.29-19.55.49:989][  0]LogWindows: EnumDisplayDevices:
+[2019.10.29-19.55.49:990][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2019.10.29-19.55.49:990][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.29-19.55.49:990][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.29-19.55.49:990][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.10.29-19.55.49:990][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.29-19.55.49:991][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.29-19.55.49:991][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.10.29-19.55.49:991][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.10.29-19.55.49:991][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.10.29-19.55.49:991][  0]LogD3D11RHI:   Driver Version: 440.97 (internal:26.21.14.4097, unified:440.97)
+[2019.10.29-19.55.49:991][  0]LogD3D11RHI:      Driver Date: 10-16-2019
+[2019.10.29-19.55.49:991][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.10.29-19.55.50:022][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.29-19.55.50:038][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.29-19.55.50:258][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.29-19.55.50:265][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.29-19.55.50:272][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.29-19.55.50:278][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.29-19.55.50:284][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.29-19.55.50:294][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.29-19.55.50:300][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.29-19.55.50:306][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.29-19.55.50:309][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.29-19.55.50:332][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.29-19.55.50:333][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.29-19.55.50:347][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.29-19.55.50:347][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.29-19.55.50:359][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.29-19.55.50:359][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.29-19.55.50:364][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.29-19.55.50:369][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.29-19.55.50:373][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.29-19.55.50:378][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.29-19.55.50:394][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.29-19.55.50:394][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.29-19.55.50:394][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.29-19.55.50:401][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.29-19.55.50:438][  0]LogShaderCompilers: Guid format shader working directory is 33 characters bigger than the processId version (D:/Git/CV/CV/Intermediate/Shaders/WorkingDirectory/19868/).
+[2019.10.29-19.55.50:438][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ponth/AppData/Local/Temp/UnrealShaderWorkingDir/EF97D1784BDE9478F7A7CBBDB8C8C6C4/'.
+[2019.10.29-19.55.50:440][  0]LogXGEController: Cleaning working directory: C:/Users/ponth/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.29-19.55.50:440][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.29-19.55.50:440][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.29-19.55.50:440][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.29-19.55.50:929][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.29-19.55.50:972][  0]LogDerivedDataCache: Loaded boot cache 0.04s 87MB C:/Users/ponth/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.29-19.55.50:972][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ponth/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.29-19.55.50:972][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Git/CV/CV/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.29-19.55.50:972][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.29-19.55.50:972][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Git/CV/CV/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.29-19.55.50:972][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.29-19.55.50:980][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.29-19.55.50:980][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.29-19.55.50:980][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.29-19.55.50:981][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ponth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.29-19.55.50:981][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.29-19.55.50:981][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.29-19.55.50:998][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.29-19.55.51:001][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.29-19.55.51:001][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.29-19.55.51:043][  0]LogAssetRegistry: FAssetRegistry took 0.0016 seconds to start up
+[2019.10.29-19.55.51:247][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.29-19.55.51:383][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.29-19.55.51:383][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.29-19.55.51:383][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.29-19.55.51:383][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.29-19.55.51:383][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.29-19.55.51:390][  0]LogNetVersion: CV 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3136587888)
+[2019.10.29-19.55.51:692][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.031245 seconds
+[2019.10.29-19.55.51:696][  0]LogUObjectArray: 43222 objects as part of root set at end of initial load.
+[2019.10.29-19.55.51:696][  0]LogUObjectAllocator: 7513000 out of 0 bytes used by permanent object pool.
+[2019.10.29-19.55.51:696][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.29-19.55.52:332][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2019.10.29-19.55.52:335][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.29-19.55.52:337][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.29-19.55.52:376][  0]SourceControl: Source control is disabled
+[2019.10.29-19.55.52:649][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.29-19.55.52:649][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.29-19.55.52:706][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.29-19.55.52:878][  0]LogOcInput: OculusInput pre-init called
+[2019.10.29-19.55.53:377][  0]LogEngine: Initializing Engine...
+[2019.10.29-19.55.53:377][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.29-19.55.53:556][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.29-19.55.53:571][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.29-19.55.53:610][  0]LogInit: XAudio2 using 'PLG2488H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.29-19.55.53:675][  0]LogInit: FAudioDevice initialized.
+[2019.10.29-19.55.53:675][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.29-19.55.53:712][  0]LogDerivedDataCache: Saved boot cache 0.04s 87MB C:/Users/ponth/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.29-19.55.53:716][  0]LogInit: Texture streaming: Enabled
+[2019.10.29-19.55.53:730][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.29-19.55.53:730][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={1AB7729D-4908-B19A-2A7E-2E9A96B0E68A}
+[2019.10.29-19.55.53:797][  0]LogInit: Transaction tracking system initialized
+[2019.10.29-19.55.53:823][  0]BlueprintLog: New page: Editor Load
+[2019.10.29-19.55.53:887][  0]LocalizationService: Localization service is disabled
+[2019.10.29-19.55.53:939][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.29-19.55.53:939][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.29-19.55.54:073][  0]LogFileCache: Scanning file cache for directory 'D:/Git/CV/CV/Content/' took 0.01s
+[2019.10.29-19.55.54:073][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.29-19.55.54:073][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.29-19.55.54:203][  0]Cmd: MAP LOAD FILE="D:/Git/CV/CV/Content/Maps/n_fx.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.29-19.55.54:204][  0]LightingResults: New page: Lighting Build
+[2019.10.29-19.55.54:207][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.29-19.55.54:207][  0]MapCheck: New page: Map Check
+[2019.10.29-19.55.54:207][  0]LightingResults: New page: Lighting Build
+[2019.10.29-19.55.54:234][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.10.29-19.55.55:018][  0]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam' Precompile took 0.286862 sec.
+[2019.10.29-19.55.55:018][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.55.55:018][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.55.55:018][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.55.55:018][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.55.55:018][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.55.55:018][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.SpawnScript_5' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.UpdateScript_6' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.55.55:019][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.55.55:020][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.55.55:020][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.55.55:020][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.55.55:020][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.55.55:020][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.SpawnScript_10' is in-sync skipping compile..
+[2019.10.29-19.55.55:020][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.UpdateScript_11' is in-sync skipping compile..
+[2019.10.29-19.55.55:020][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.EmitterSpawnScript_12' is in-sync skipping compile..
+[2019.10.29-19.55.55:020][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.EmitterUpdateScript_13' is in-sync skipping compile..
+[2019.10.29-19.55.55:020][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.55.55:020][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.55.55:020][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.55.55:020][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.55.55:020][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemSpawnScript' is in-sync skipping compile..
+[2019.10.29-19.55.55:020][  0]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemUpdateScript' is in-sync skipping compile..
+[2019.10.29-19.55.55:153][  0]LogAIModule: Creating AISystem for world n_fx
+[2019.10.29-19.55.55:156][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.29-19.55.55:205][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.10.29-19.55.55:205][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.29-19.55.55:206][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,064ms to complete.
+[2019.10.29-19.55.55:206][  0]LogFileHelpers: Loading map 'n_fx' took 1.003
+[2019.10.29-19.55.55:299][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.55.55:313][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.55.55:319][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.55.55:324][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.55.55:329][  0]LogCollectionManager: Loaded 0 collections in 0.001502 seconds
+[2019.10.29-19.55.55:334][  0]LogFileCache: Scanning file cache for directory 'D:/Git/CV/CV/Saved/Collections/' took 0.00s
+[2019.10.29-19.55.55:334][  0]LogFileCache: Scanning file cache for directory 'D:/Git/CV/CV/Content/Developers/ponth/Collections/' took 0.00s
+[2019.10.29-19.55.55:334][  0]LogFileCache: Scanning file cache for directory 'D:/Git/CV/CV/Content/Collections/' took 0.00s
+[2019.10.29-19.55.55:334][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.29-19.55.55:342][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 3010 classes and 699 folders.
+[2019.10.29-19.55.55:348][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.29-19.55.55:376][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.29-19.55.55:382][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.29-19.55.55:452][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.29-19.55.55:453][  0]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.29-19.55.55:455][  0]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.29-19.55.55:507][  0]LogRenderer: Reallocating scene render targets to support 924x480 Format 10 NumSamples 1 (Frame:1).
+[2019.10.29-19.55.55:576][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.29-19.55.55:576][  0]LogLoad: (Engine Initialization) Total time: 7.08 seconds
+[2019.10.29-19.55.55:576][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.29-19.55.55:619][  0]LogAssetRegistry: Asset discovery search completed in 4.5775 seconds
+[2019.10.29-19.55.55:623][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.10.29-19.55.55:623][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2019.10.29-19.55.55:624][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.29-19.55.55:660][  0]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.29-19.55.55:662][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2019.10.29-19.55.56:601][109]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.29-19.55.56:942][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.55.58:575][340]LogAssetEditorManager: Opening Asset editor for NiagaraSystem /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam
+[2019.10.29-19.55.58:847][340]57229_ns_orbitalbeam_MessageLog: System successfully compiled.
+[2019.10.29-19.55.58:890][340]LogRenderer: Reallocating scene render targets to support 924x672 Format 10 NumSamples 1 (Frame:1).
+[2019.10.29-19.56.02:911][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.56.03:928][824]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam' Precompile took 0.273926 sec.
+[2019.10.29-19.56.03:928][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.56.03:928][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.SpawnScript_5' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.UpdateScript_6' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.56.03:929][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.SpawnScript_10' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.UpdateScript_11' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.EmitterSpawnScript_12' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.EmitterUpdateScript_13' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.56.03:930][824]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.56.03:958][825]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemSpawnScript ...................................................................
+[2019.10.29-19.56.03:958][825]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemUpdateScript ...................................................................
+[2019.10.29-19.56.04:031][830]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content/Sequencer/Editor' is outside repository
+[2019.10.29-19.56.04:041][831]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemSpawnScript took 0.103574 sec (0.012076/0.091370)... Status NCS_UpToDate
+[2019.10.29-19.56.04:047][831]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemSpawnScript' was built locally..
+[2019.10.29-19.56.05:462][975]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemUpdateScript took 1.525783 sec (0.063129/1.422595)... Status NCS_UpToDate
+[2019.10.29-19.56.05:584][988]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemUpdateScript' was built locally..
+[2019.10.29-19.56.05:633][989]57229_ns_orbitalbeam_MessageLog: System successfully compiled.
+[2019.10.29-19.56.13:717][855]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.29-19.56.13:733][855]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.56.13:733][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-19.56.13:734][855]PIE: New page: PIE session: n_fx (29 oct. 2019 21:56:13)
+[2019.10.29-19.56.13:734][855]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.10.29-19.56.13:735][855]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.56.13:737][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002457s)
+[2019.10.29-19.56.13:738][855]LogAIModule: Creating AISystem for world n_fx
+[2019.10.29-19.56.13:738][855]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2019.10.29-19.56.13:738][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/n_fx.n_fx to /Game/Maps/UEDPIE_0_n_fx.n_fx (0.003257s)
+[2019.10.29-19.56.13:769][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.10.29-19.56.13:802][855]LogInit: XAudio2 using 'PLG2488H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.29-19.56.13:810][855]LogInit: FAudioDevice initialized.
+[2019.10.29-19.56.13:816][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.56.13:817][855]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.29-19.56.13:818][855]LogWorld: Bringing World /Game/Maps/UEDPIE_0_n_fx.n_fx up for play (max tick rate 0) at 2019.10.29-20.56.13
+[2019.10.29-19.56.13:818][855]LogWorld: Bringing up level for play took: 0.000623
+[2019.10.29-19.56.13:818][855]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.10.29-19.56.13:824][855]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.10.29-19.56.13:827][855]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_n_fx 0,874
+[2019.10.29-19.56.13:827][855]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.56.13:864][856]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2019.10.29-19.56.24:930][ 21]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.56.24:930][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.56.24:930][ 21]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.56.24:946][ 21]LogSlate: Window 'CV Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.29-19.56.24:949][ 21]LogWorld: UWorld::CleanupWorld for n_fx, bSessionEnded=true, bCleanupResources=true
+[2019.10.29-19.56.24:957][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-19.56.24:957][ 21]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.56.24:990][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.10.29-19.56.25:032][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.10.29-19.56.26:632][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/n_fx" FILE="D:/Git/CV/CV/Content/Maps/n_fx.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-19.56.26:660][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.10.29-19.56.26:783][194]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/n_fx32F66E8647246B43560CCA9183A23CCF.tmp' to 'D:/Git/CV/CV/Content/Maps/n_fx.umap'
+[2019.10.29-19.56.26:881][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/n_fx_BuiltData" FILE="D:/Git/CV/CV/Content/Maps/n_fx_BuiltData.uasset" SILENT=true
+[2019.10.29-19.56.26:896][194]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/n_fx_BuiltData6CA5CFCA486AC7D6D6E884A974DE8285.tmp' to 'D:/Git/CV/CV/Content/Maps/n_fx_BuiltData.uasset'
+[2019.10.29-19.56.27:550][255]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.29-19.56.27:567][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.56.27:567][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-19.56.27:567][255]PIE: New page: PIE session: n_fx (29 oct. 2019 21:56:27)
+[2019.10.29-19.56.27:567][255]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.56.27:569][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002020s)
+[2019.10.29-19.56.27:570][255]LogAIModule: Creating AISystem for world n_fx
+[2019.10.29-19.56.27:570][255]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2019.10.29-19.56.27:571][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/n_fx.n_fx to /Game/Maps/UEDPIE_0_n_fx.n_fx (0.003063s)
+[2019.10.29-19.56.27:597][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.29-19.56.27:625][255]LogInit: XAudio2 using 'PLG2488H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.29-19.56.27:637][255]LogInit: FAudioDevice initialized.
+[2019.10.29-19.56.27:641][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.56.27:641][255]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.29-19.56.27:642][255]LogWorld: Bringing World /Game/Maps/UEDPIE_0_n_fx.n_fx up for play (max tick rate 0) at 2019.10.29-20.56.27
+[2019.10.29-19.56.27:642][255]LogWorld: Bringing up level for play took: 0.000498
+[2019.10.29-19.56.27:642][255]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.10.29-19.56.27:645][255]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_n_fx 0,694
+[2019.10.29-19.56.27:646][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.56.34:991][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.56.34:991][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.56.34:991][ 17]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.56.35:007][ 17]LogSlate: Window 'CV Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.29-19.56.35:010][ 17]LogWorld: UWorld::CleanupWorld for n_fx, bSessionEnded=true, bCleanupResources=true
+[2019.10.29-19.56.35:014][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-19.56.35:014][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.56.35:046][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.10.29-19.56.35:095][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.10.29-19.56.36:822][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam" FILE="D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset" SILENT=true
+[2019.10.29-19.56.37:756][197]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/ns_orbitalbeam56F6CCC2469CF4474CCCAFA12909E869.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset'
+[2019.10.29-19.56.38:813][303]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.29-19.56.38:829][303]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.56.38:829][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-19.56.38:829][303]PIE: New page: PIE session: n_fx (29 oct. 2019 21:56:38)
+[2019.10.29-19.56.38:830][303]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.56.38:831][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001862s)
+[2019.10.29-19.56.38:832][303]LogAIModule: Creating AISystem for world n_fx
+[2019.10.29-19.56.38:832][303]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2019.10.29-19.56.38:832][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/n_fx.n_fx to /Game/Maps/UEDPIE_0_n_fx.n_fx (0.002545s)
+[2019.10.29-19.56.38:860][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.10.29-19.56.38:885][303]LogInit: XAudio2 using 'PLG2488H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.29-19.56.38:891][303]LogInit: FAudioDevice initialized.
+[2019.10.29-19.56.38:897][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.56.38:897][303]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.29-19.56.38:898][303]LogWorld: Bringing World /Game/Maps/UEDPIE_0_n_fx.n_fx up for play (max tick rate 0) at 2019.10.29-20.56.38
+[2019.10.29-19.56.38:898][303]LogWorld: Bringing up level for play took: 0.000544
+[2019.10.29-19.56.38:898][303]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.10.29-19.56.38:901][303]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_n_fx -0,05
+[2019.10.29-19.56.38:901][303]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.56.47:647][219]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.56.47:647][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.56.47:647][219]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.56.47:663][219]LogSlate: Window 'CV Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.29-19.56.47:666][219]LogWorld: UWorld::CleanupWorld for n_fx, bSessionEnded=true, bCleanupResources=true
+[2019.10.29-19.56.47:674][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-19.56.47:674][219]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.56.47:705][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.10.29-19.56.47:754][224]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.10.29-19.56.59:131][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam" FILE="D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset" SILENT=true
+[2019.10.29-19.56.59:992][491]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/ns_orbitalbeam058E119D4F2A24E497F74DBB58E065CF.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset'
+[2019.10.29-19.57.01:960][662]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam' Precompile took 0.264298 sec.
+[2019.10.29-19.57.01:960][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.01:960][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.01:960][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.01:960][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.01:960][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.01:960][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.01:960][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.01:960][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.01:961][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.SpawnScript_5' is in-sync skipping compile..
+[2019.10.29-19.57.01:961][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.UpdateScript_6' is in-sync skipping compile..
+[2019.10.29-19.57.01:961][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.29-19.57.01:961][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.29-19.57.01:961][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.01:961][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.01:961][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.01:961][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.01:961][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.01:961][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.01:961][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.01:961][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.01:961][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.SpawnScript_10' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.UpdateScript_11' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.EmitterSpawnScript_12' is in-sync skipping compile..
+[2019.10.29-19.57.01:962][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.EmitterUpdateScript_13' is in-sync skipping compile..
+[2019.10.29-19.57.01:963][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.01:963][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.01:963][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.01:963][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.01:963][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.01:963][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.01:963][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.01:963][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.01:963][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemSpawnScript' is in-sync skipping compile..
+[2019.10.29-19.57.01:964][662]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemUpdateScript' is in-sync skipping compile..
+[2019.10.29-19.57.02:005][662]57229_ns_orbitalbeam_MessageLog: System successfully compiled.
+[2019.10.29-19.57.02:500][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam" FILE="D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset" SILENT=true
+[2019.10.29-19.57.03:358][698]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/ns_orbitalbeam0E98EA2F45757AA59724089555236712.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset'
+[2019.10.29-19.57.03:921][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/n_fx" FILE="D:/Git/CV/CV/Content/Maps/n_fx.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-19.57.03:949][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.10.29-19.57.04:098][740]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/n_fx46582C274E8AD4ECEB98C88935C34365.tmp' to 'D:/Git/CV/CV/Content/Maps/n_fx.umap'
+[2019.10.29-19.57.04:182][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/n_fx_BuiltData" FILE="D:/Git/CV/CV/Content/Maps/n_fx_BuiltData.uasset" SILENT=true
+[2019.10.29-19.57.04:192][740]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/n_fx_BuiltData04CAEE014710AC76DDA36C945756B685.tmp' to 'D:/Git/CV/CV/Content/Maps/n_fx_BuiltData.uasset'
+[2019.10.29-19.57.04:839][797]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.29-19.57.04:857][797]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.57.04:857][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-19.57.04:857][797]PIE: New page: PIE session: n_fx (29 oct. 2019 21:57:04)
+[2019.10.29-19.57.04:857][797]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.57.04:859][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001754s)
+[2019.10.29-19.57.04:860][797]LogAIModule: Creating AISystem for world n_fx
+[2019.10.29-19.57.04:860][797]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2019.10.29-19.57.04:860][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/n_fx.n_fx to /Game/Maps/UEDPIE_0_n_fx.n_fx (0.002496s)
+[2019.10.29-19.57.04:888][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.10.29-19.57.04:914][797]LogInit: XAudio2 using 'PLG2488H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.29-19.57.04:922][797]LogInit: FAudioDevice initialized.
+[2019.10.29-19.57.04:927][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.57.04:928][797]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.29-19.57.04:928][797]LogWorld: Bringing World /Game/Maps/UEDPIE_0_n_fx.n_fx up for play (max tick rate 0) at 2019.10.29-20.57.04
+[2019.10.29-19.57.04:929][797]LogWorld: Bringing up level for play took: 0.000503
+[2019.10.29-19.57.04:929][797]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.10.29-19.57.04:932][797]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_n_fx -0,02
+[2019.10.29-19.57.04:933][797]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.57.14:628][804]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.57.14:628][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.57.14:628][804]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.57.14:643][804]LogSlate: Window 'CV Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.29-19.57.14:646][804]LogWorld: UWorld::CleanupWorld for n_fx, bSessionEnded=true, bCleanupResources=true
+[2019.10.29-19.57.14:651][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-19.57.14:651][804]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.57.14:686][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.10.29-19.57.14:730][808]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.29-19.57.21:874][581]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FX/Niagara/OrbitalBeam/bp_orbitalbeam.bp_orbitalbeam
+[2019.10.29-19.57.22:057][581]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.10.29-19.57.22:696][581]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.29-19.57.22:734][582]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.29-19.57.44:719][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.57.44:828][ 60]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.29-19.57.44:844][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.57.44:845][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-19.57.44:845][ 60]PIE: New page: PIE session: n_fx (29 oct. 2019 21:57:44)
+[2019.10.29-19.57.44:845][ 60]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.57.44:847][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001988s)
+[2019.10.29-19.57.44:847][ 60]LogAIModule: Creating AISystem for world n_fx
+[2019.10.29-19.57.44:847][ 60]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2019.10.29-19.57.44:848][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/n_fx.n_fx to /Game/Maps/UEDPIE_0_n_fx.n_fx (0.002869s)
+[2019.10.29-19.57.44:878][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.10.29-19.57.44:904][ 60]LogInit: XAudio2 using 'PLG2488H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.29-19.57.44:912][ 60]LogInit: FAudioDevice initialized.
+[2019.10.29-19.57.44:918][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.57.44:918][ 60]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.29-19.57.44:919][ 60]LogWorld: Bringing World /Game/Maps/UEDPIE_0_n_fx.n_fx up for play (max tick rate 0) at 2019.10.29-20.57.44
+[2019.10.29-19.57.44:919][ 60]LogWorld: Bringing up level for play took: 0.000553
+[2019.10.29-19.57.44:919][ 60]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.10.29-19.57.44:923][ 60]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_n_fx -0,029
+[2019.10.29-19.57.44:923][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.57.46:455][210]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.57.46:455][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.57.46:455][210]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.57.46:471][210]LogSlate: Window 'CV Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.29-19.57.46:474][210]LogWorld: UWorld::CleanupWorld for n_fx, bSessionEnded=true, bCleanupResources=true
+[2019.10.29-19.57.46:483][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-19.57.46:483][210]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.57.46:519][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.10.29-19.57.46:561][212]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.29-19.57.47:532][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/n_fx" FILE="D:/Git/CV/CV/Content/Maps/n_fx.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-19.57.47:561][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.29-19.57.47:741][306]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/n_fx9EC859B04C745190C5E03583C5A1EDE1.tmp' to 'D:/Git/CV/CV/Content/Maps/n_fx.umap'
+[2019.10.29-19.57.47:836][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/n_fx_BuiltData" FILE="D:/Git/CV/CV/Content/Maps/n_fx_BuiltData.uasset" SILENT=true
+[2019.10.29-19.57.47:847][306]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/n_fx_BuiltData6AEB9D94451398DB016C6C8B2518FD4E.tmp' to 'D:/Git/CV/CV/Content/Maps/n_fx_BuiltData.uasset'
+[2019.10.29-19.57.48:174][328]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.29-19.57.48:192][328]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.57.48:192][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-19.57.48:193][328]PIE: New page: PIE session: n_fx (29 oct. 2019 21:57:48)
+[2019.10.29-19.57.48:193][328]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.57.48:194][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001829s)
+[2019.10.29-19.57.48:194][328]LogAIModule: Creating AISystem for world n_fx
+[2019.10.29-19.57.48:195][328]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2019.10.29-19.57.48:195][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/n_fx.n_fx to /Game/Maps/UEDPIE_0_n_fx.n_fx (0.002537s)
+[2019.10.29-19.57.48:224][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.10.29-19.57.48:253][328]LogInit: XAudio2 using 'PLG2488H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.29-19.57.48:260][328]LogInit: FAudioDevice initialized.
+[2019.10.29-19.57.48:266][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.57.48:266][328]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.29-19.57.48:267][328]LogWorld: Bringing World /Game/Maps/UEDPIE_0_n_fx.n_fx up for play (max tick rate 0) at 2019.10.29-20.57.48
+[2019.10.29-19.57.48:267][328]LogWorld: Bringing up level for play took: 0.000771
+[2019.10.29-19.57.48:267][328]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.10.29-19.57.48:271][328]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_n_fx -0,68
+[2019.10.29-19.57.48:272][328]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.57.56:010][111]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.57.56:010][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.57.56:010][111]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.57.56:025][111]LogSlate: Window 'CV Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.29-19.57.56:028][111]LogWorld: UWorld::CleanupWorld for n_fx, bSessionEnded=true, bCleanupResources=true
+[2019.10.29-19.57.56:038][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-19.57.56:038][111]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.57.56:074][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.10.29-19.57.56:116][113]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.29-19.57.59:716][471]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam' Precompile took 0.247034 sec.
+[2019.10.29-19.57.59:716][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.59:716][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.59:716][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.59:716][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.59:716][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.59:716][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.59:716][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.59:716][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.59:716][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.SpawnScript_5' is in-sync skipping compile..
+[2019.10.29-19.57.59:716][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.UpdateScript_6' is in-sync skipping compile..
+[2019.10.29-19.57.59:716][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.29-19.57.59:716][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.29-19.57.59:716][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.59:716][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.SpawnScript_10' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.UpdateScript_11' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.EmitterSpawnScript_12' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.EmitterUpdateScript_13' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.59:717][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.59:718][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.57.59:718][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.57.59:718][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.57.59:718][471]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.57.59:731][472]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemSpawnScript ...................................................................
+[2019.10.29-19.57.59:731][472]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemUpdateScript ...................................................................
+[2019.10.29-19.57.59:794][477]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemSpawnScript took 0.074298 sec (0.011749/0.062468)... Status NCS_UpToDate
+[2019.10.29-19.57.59:802][477]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemSpawnScript' was built locally..
+[2019.10.29-19.58.01:012][599]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemUpdateScript took 1.292800 sec (0.047381/1.218954)... Status NCS_UpToDate
+[2019.10.29-19.58.01:023][600]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemUpdateScript' was built locally..
+[2019.10.29-19.58.01:078][601]57229_ns_orbitalbeam_MessageLog: System successfully compiled.
+[2019.10.29-19.58.31:399][996]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam' Precompile took 0.283552 sec.
+[2019.10.29-19.58.31:399][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.58.31:399][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.58.31:399][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.58.31:399][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.58.31:399][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.58.31:399][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.58.31:399][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.SpawnScript_5' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.UpdateScript_6' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.58.31:400][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.58.31:401][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.58.31:401][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.SpawnScript_10' is in-sync skipping compile..
+[2019.10.29-19.58.31:401][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.UpdateScript_11' is in-sync skipping compile..
+[2019.10.29-19.58.31:401][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.EmitterSpawnScript_12' is in-sync skipping compile..
+[2019.10.29-19.58.31:401][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.EmitterUpdateScript_13' is in-sync skipping compile..
+[2019.10.29-19.58.31:401][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.58.31:401][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.58.31:401][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.58.31:401][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.58.31:401][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.58.31:401][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.58.31:401][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.58.31:401][996]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.58.31:414][997]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemSpawnScript ...................................................................
+[2019.10.29-19.58.31:414][997]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemUpdateScript ...................................................................
+[2019.10.29-19.58.31:470][  1]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemSpawnScript took 0.067372 sec (0.011694/0.055627)... Status NCS_UpToDate
+[2019.10.29-19.58.31:473][  1]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemSpawnScript' was built locally..
+[2019.10.29-19.58.32:660][125]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemUpdateScript took 1.256822 sec (0.047456/1.189914)... Status NCS_UpToDate
+[2019.10.29-19.58.32:662][125]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemUpdateScript' was built locally..
+[2019.10.29-19.58.32:715][126]57229_ns_orbitalbeam_MessageLog: System successfully compiled.
+[2019.10.29-19.58.33:669][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam" FILE="D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset" SILENT=true
+[2019.10.29-19.58.34:524][222]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/ns_orbitalbeam09822E4244E5BD771D837188133096C4.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset'
+[2019.10.29-19.58.34:860][247]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.29-19.58.34:876][247]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.58.34:876][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-19.58.34:876][247]PIE: New page: PIE session: n_fx (29 oct. 2019 21:58:34)
+[2019.10.29-19.58.34:876][247]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.58.34:878][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001901s)
+[2019.10.29-19.58.34:878][247]LogAIModule: Creating AISystem for world n_fx
+[2019.10.29-19.58.34:879][247]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2019.10.29-19.58.34:879][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/n_fx.n_fx to /Game/Maps/UEDPIE_0_n_fx.n_fx (0.002572s)
+[2019.10.29-19.58.34:916][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.10.29-19.58.34:943][247]LogInit: XAudio2 using 'PLG2488H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.29-19.58.34:950][247]LogInit: FAudioDevice initialized.
+[2019.10.29-19.58.34:956][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.58.34:956][247]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.29-19.58.34:957][247]LogWorld: Bringing World /Game/Maps/UEDPIE_0_n_fx.n_fx up for play (max tick rate 0) at 2019.10.29-20.58.34
+[2019.10.29-19.58.34:957][247]LogWorld: Bringing up level for play took: 0.000539
+[2019.10.29-19.58.34:958][247]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.10.29-19.58.34:961][247]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_n_fx 0,009
+[2019.10.29-19.58.34:961][247]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.58.46:948][537]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.58.46:948][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.58.46:948][537]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.58.46:971][537]LogSlate: Window 'CV Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.29-19.58.46:974][537]LogWorld: UWorld::CleanupWorld for n_fx, bSessionEnded=true, bCleanupResources=true
+[2019.10.29-19.58.46:983][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-19.58.46:983][537]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.58.47:025][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.10.29-19.58.47:052][539]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.29-19.58.58:821][843]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content/MapTemplates/MASTER_Sky_Material_DEFAULT_MAP.uasset: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content/MapTemplates/MASTER_Sky_Material_DEFAULT_MAP.uasset' is outside repository
+[2019.10.29-19.58.58:821][843]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content/BufferVisualization/MaterialAO.uasset: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content/BufferVisualization/MaterialAO.uasset' is outside repository
+[2019.10.29-19.58.58:821][843]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content/EngineDebugMaterials/MaterialError_Mat.uasset: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content/EngineDebugMaterials/MaterialError_Mat.uasset' is outside repository
+[2019.10.29-19.58.58:821][843]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content/EditorMaterials/MatineeCam_mat.uasset: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content/EditorMaterials/MatineeCam_mat.uasset' is outside repository
+[2019.10.29-19.59.00:373][ 14]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset' is outside repository
+[2019.10.29-19.59.00:373][ 14]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack_Mat.uasset: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack_Mat.uasset' is outside repository
+[2019.10.29-19.59.05:304][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam" FILE="D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset" SILENT=true
+[2019.10.29-19.59.06:164][552]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/ns_orbitalbeamE317997E48BFB28584BD6CA7C556DF07.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset'
+[2019.10.29-19.59.10:987][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.59.16:615][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.59.26:300][780]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.29-19.59.36:327][710]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.29-19.59.44:306][576]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam' Precompile took 0.263912 sec.
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.SpawnScript_5' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.UpdateScript_6' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.44:306][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.SpawnScript_10' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.UpdateScript_11' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.EmitterSpawnScript_12' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.EmitterUpdateScript_13' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.44:307][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.44:308][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.44:308][576]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.UpdateScript_1 ...................................................................
+[2019.10.29-19.59.44:308][576]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.SpawnScript_0 ...................................................................
+[2019.10.29-19.59.44:308][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemSpawnScript' is in-sync skipping compile..
+[2019.10.29-19.59.44:308][576]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemUpdateScript' is in-sync skipping compile..
+[2019.10.29-19.59.44:354][580]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.UpdateScript_1 took 0.038161 sec (0.001189/0.036903)... Status NCS_UpToDate
+[2019.10.29-19.59.44:364][580]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.UpdateScript_1' was built locally..
+[2019.10.29-19.59.44:425][584]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.SpawnScript_0 took 0.108872 sec (0.005245/0.070808)... Status NCS_UpToDate
+[2019.10.29-19.59.44:426][584]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.SpawnScript_0' was built locally..
+[2019.10.29-19.59.44:467][585]57229_ns_orbitalbeam_MessageLog: System successfully compiled.
+[2019.10.29-19.59.45:826][700]LogNiagaraEditor: Verbose: '/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam' Precompile took 0.258535 sec.
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave_9.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_circle.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.SpawnScript_5' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.UpdateScript_6' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.EmitterSpawnScript_7' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_wooblebeam_6.EmitterUpdateScript_8' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.45:826][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_toint_7.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power_8.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_first_trailwave001_11.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_trailwave_power001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.SpawnScript_10' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.UpdateScript_11' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.EmitterSpawnScript_12' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam.EmitterUpdateScript_13' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.SpawnScript_0' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.UpdateScript_1' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.45:827][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_beam001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.45:828][700]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.SpawnScript_0 ...................................................................
+[2019.10.29-19.59.45:828][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.10.29-19.59.45:828][700]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.UpdateScript_1 ...................................................................
+[2019.10.29-19.59.45:828][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.10.29-19.59.45:828][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemSpawnScript' is in-sync skipping compile..
+[2019.10.29-19.59.45:829][700]LogNiagara: Script 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:SystemUpdateScript' is in-sync skipping compile..
+[2019.10.29-19.59.45:897][705]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.SpawnScript_0 took 0.068021 sec (0.005564/0.062378)... Status NCS_UpToDate
+[2019.10.29-19.59.45:897][705]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.SpawnScript_0' was built locally..
+[2019.10.29-19.59.45:930][708]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.UpdateScript_1 took 0.099272 sec (0.006681/0.031328)... Status NCS_UpToDate
+[2019.10.29-19.59.45:947][708]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.ns_orbitalbeam:ne_airwave001_1.UpdateScript_1' was built locally..
+[2019.10.29-19.59.45:989][709]57229_ns_orbitalbeam_MessageLog: System successfully compiled.
+[2019.10.29-19.59.56:726][880]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.29-19.59.56:732][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam" FILE="D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset" SILENT=true
+[2019.10.29-19.59.57:606][880]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/ns_orbitalbeam5280E6EE48753BB8EBF07DB710D258D9.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset'
+[2019.10.29-19.59.57:966][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-19.59.58:035][918]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.29-19.59.58:052][918]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-19.59.58:052][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-19.59.58:052][918]PIE: New page: PIE session: n_fx (29 oct. 2019 21:59:58)
+[2019.10.29-19.59.58:052][918]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-19.59.58:054][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002076s)
+[2019.10.29-19.59.58:055][918]LogAIModule: Creating AISystem for world n_fx
+[2019.10.29-19.59.58:055][918]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2019.10.29-19.59.58:055][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/n_fx.n_fx to /Game/Maps/UEDPIE_0_n_fx.n_fx (0.002830s)
+[2019.10.29-19.59.58:091][918]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.10.29-19.59.58:118][918]LogInit: XAudio2 using 'PLG2488H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.29-19.59.58:125][918]LogInit: FAudioDevice initialized.
+[2019.10.29-19.59.58:131][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-19.59.58:131][918]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.29-19.59.58:132][918]LogWorld: Bringing World /Game/Maps/UEDPIE_0_n_fx.n_fx up for play (max tick rate 0) at 2019.10.29-20.59.58
+[2019.10.29-19.59.58:132][918]LogWorld: Bringing up level for play took: 0.000551
+[2019.10.29-19.59.58:132][918]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.10.29-19.59.58:136][918]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_n_fx -0,816
+[2019.10.29-19.59.58:136][918]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-20.00.06:010][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-20.00.06:010][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-20.00.06:010][701]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-20.00.06:027][701]LogSlate: Window 'CV Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.29-20.00.06:030][701]LogWorld: UWorld::CleanupWorld for n_fx, bSessionEnded=true, bCleanupResources=true
+[2019.10.29-20.00.06:039][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-20.00.06:039][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-20.00.06:082][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.29-20.00.06:130][703]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.29-20.01.04:189][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/n_fx" FILE="D:/Git/CV/CV/Content/Maps/n_fx.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.29-20.01.04:224][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.29-20.01.04:510][164]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/n_fxE44127A249079039ED74C9BF16C294A3.tmp' to 'D:/Git/CV/CV/Content/Maps/n_fx.umap'
+[2019.10.29-20.01.04:594][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/n_fx_BuiltData" FILE="D:/Git/CV/CV/Content/Maps/n_fx_BuiltData.uasset" SILENT=true
+[2019.10.29-20.01.04:605][164]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/n_fx_BuiltDataD704C7F048A0491E6FD765BED8D9BAA7.tmp' to 'D:/Git/CV/CV/Content/Maps/n_fx_BuiltData.uasset'
+[2019.10.29-20.01.04:960][189]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.29-20.01.04:978][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-20.01.04:978][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-20.01.04:978][189]PIE: New page: PIE session: n_fx (29 oct. 2019 22:01:04)
+[2019.10.29-20.01.04:978][189]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-20.01.04:980][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001872s)
+[2019.10.29-20.01.04:981][189]LogAIModule: Creating AISystem for world n_fx
+[2019.10.29-20.01.04:981][189]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2019.10.29-20.01.04:981][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/n_fx.n_fx to /Game/Maps/UEDPIE_0_n_fx.n_fx (0.002750s)
+[2019.10.29-20.01.05:017][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.10.29-20.01.05:049][189]LogInit: XAudio2 using 'PLG2488H (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.29-20.01.05:057][189]LogInit: FAudioDevice initialized.
+[2019.10.29-20.01.05:063][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-20.01.05:063][189]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.29-20.01.05:064][189]LogWorld: Bringing World /Game/Maps/UEDPIE_0_n_fx.n_fx up for play (max tick rate 0) at 2019.10.29-21.01.05
+[2019.10.29-20.01.05:064][189]LogWorld: Bringing up level for play took: 0.000544
+[2019.10.29-20.01.05:064][189]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.10.29-20.01.05:068][189]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_n_fx 0,115
+[2019.10.29-20.01.05:068][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-20.01.14:273][112]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-20.01.14:273][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-20.01.14:273][112]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_n_fx
+[2019.10.29-20.01.14:288][112]LogSlate: Window 'CV Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.29-20.01.14:292][112]LogWorld: UWorld::CleanupWorld for n_fx, bSessionEnded=true, bCleanupResources=true
+[2019.10.29-20.01.14:302][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-20.01.14:302][112]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/n_fx.n_fx:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx' with GeneratedClass '/Game/Maps/n_fx.n_fx_C' with ClassGeneratedBy '/Game/Maps/n_fx.n_fx:PersistentLevel.n_fx'
+[2019.10.29-20.01.14:347][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.29-20.01.14:378][114]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.29-20.01.16:252][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam" FILE="D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset" SILENT=true
+[2019.10.29-20.01.17:174][300]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/ns_orbitalbeam576A7D29436D981744298AA4CED0338C.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset'
+[2019.10.29-20.01.19:615][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.29-20.01.29:339][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.01.32:126][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-20.01.32:300][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam" FILE="D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset" SILENT=true
+[2019.10.29-20.01.33:198][891]LogSavePackage: Moving 'D:/Git/CV/CV/Saved/ns_orbitalbeam43CA8ECC4DBC4013DC11408AC551412C.tmp' to 'D:/Git/CV/CV/Content/FX/Niagara/OrbitalBeam/particles/ns_orbitalbeam.uasset'
+[2019.10.29-20.01.35:695][160]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.10.29-20.01.35:695][160]LogWindows: Windows GetLastError: L’opération a réussi. (0)
